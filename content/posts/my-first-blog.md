@@ -1,5 +1,5 @@
 ---
-title: "My First Boke"
+title: "My First Blog"
 date: 2020-03-05T19:14:50-08:00
 draft: false
 ---
